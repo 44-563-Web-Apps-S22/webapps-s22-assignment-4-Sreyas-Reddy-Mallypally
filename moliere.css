@@ -1,0 +1,49 @@
+.speech {
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+
+.direction{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    background-color: beige;
+}
+
+.name {
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+
+.name:hover{
+    text-shadow:2px 3px 5px rgb(10, 231, 65) ;
+    border: 2px solid mediumslateblue;
+}
+
+.direction:hover{
+    background-color: skyblue;
+    color: orange;
+}
+
+.Orgon{
+    color: red;
+}
+
+.Elmire{
+    color: blue;
+}
+
+.Mariane{
+    color: green;
+}
+
+.Cleante{
+    color: yellow;
+}
+
+.Dorine{
+    color: violet;
+}
+

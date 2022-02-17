@@ -46,4 +46,16 @@
 .Dorine{
     color: violet;
 }
+.table,th,td{
+    border: 1px solid;
+    text-align: center;
+    color: rgb(74, 90, 100);
+    padding: 30px;
+    margin: 30px;
+    
+}
 
+.tr:nth-child(even) {
+    background-color: #fd7d7d;
+    color: aquamarine;
+  }
